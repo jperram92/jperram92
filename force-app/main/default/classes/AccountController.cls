@@ -1,7 +1,7 @@
 /**
  * @description       : Penis
- * @author            : Djamesperram@gmail.com
- * @group             : 
+ * @author            : lamesperram@gmail.com
+ * @group             : penis 
  * @last modified on  : 11-19-2024
  * @last modified by  : jamesperram@gmail.com
 **/
