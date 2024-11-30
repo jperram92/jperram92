@@ -3,11 +3,12 @@ Hi, I'm James Perram (He/Him), a 5x Salesforce Certified Professional transition
 My passion lies in leveraging Salesforce to transform business processes, particularly in the Health and Disability sectors, while driving revenue lifecycle management and operational efficiency.
 
 🌟 Career Journey
-My career began in Finance, where I honed my analytical skills, developed reporting tools (SQL/VBA), and streamlined revenue processes for large organizations. Recognizing the potential of Salesforce, I pivoted into the tech space, blending my financial expertise with cutting-edge CRM solutions. Today, I specialize in:
+My career began in Finance, where I honed my analytical skills, developed reporting tools (SQL/VBA), and streamlined revenue processes for large organizations. Recognizing the potential of Salesforce, I pivoted into the tech space, blending my financial expertise with cutting-edge CRM solutions. 
 
-Salesforce Implementation: Service Cloud, Sales Cloud, Health Cloud, Experience Cloud, and Field Service.
-Revenue Lifecycle Optimization: NDIS, Health Care Packages, and billing system integrations.
-Business Process Automation: Creating automated workflows and solutions to reduce manual effort and enhance accuracy.
+Today, I specialize in:
+- Salesforce Implementation: Service & Health Cloud, but familiarity with Experience & Field Services.
+- Revenue Lifecycle Optimization: NDIS, Health Care Packages, and billing system integrations.
+- Business Process Automation: Creating automated workflows and solutions to reduce manual effort and enhance accuracy.
 
 🎯 Key Achievements
 Successfully led Salesforce implementations across Health and Disability organizations.
