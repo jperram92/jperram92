@@ -1,5 +1,5 @@
 🚀 **About Me**  
-Hi, I'm **James Perram (He/Him)**, a **5x Salesforce Certified Professional** transitioning from a successful career in **Finance** to becoming a **Salesforce Functional Consultant**.  
+Hi, I'm **James Perram (He/Him)**, a **6x Salesforce Certified Professional** transitioning from a successful career in **Finance** to becoming a **Salesforce Functional Consultant**.  
 My passion lies in leveraging **Salesforce** to transform business processes, particularly in the **Health and Disability sectors**, while driving **revenue lifecycle management** and **operational efficiency**.  
 Beyond Salesforce, I enjoy **building video games with Pygame** and **exploring Python projects** to continuously expand my technical skills.  
 
