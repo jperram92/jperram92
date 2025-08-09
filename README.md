@@ -5,9 +5,11 @@ I'm a dedicated Salesforce Application Architect with a passion for designing an
 🚀 Areas of Expertise & Interest
 
 Industry Focus
+
 My experience is concentrated in the Health, Disability, and Revenue Analytics sectors. I am committed to building applications that not only meet technical requirements but also deliver meaningful impact, from improving patient care processes to optimizing complex financial workflows.
 
 Technological Drivers
+
 I am particularly interested in the following areas:
 
 1. AI Agentic Processes: Exploring and building autonomous systems that can perform complex, goal-oriented tasks to automate business processes and provide intelligent insights.
